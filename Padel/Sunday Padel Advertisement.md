@@ -18,6 +18,6 @@ Plus, we have a bigger session every weekend (Saturday or Sunday evenings) where
 
 If you’re interested, have any questions, or want to join in the fun, just hop into our WhatsApp community here:
 
-👉 https://chat.whatsapp.com/I9zA5kB9VoEDsCXuPyGqeA
+{{ Whatsapp Link }}
 
-Can’t wait to see you on the court!
+Can’t wait to see you on the court!
