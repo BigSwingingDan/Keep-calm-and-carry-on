@@ -13,9 +13,15 @@ On Wednesday evening, I’ll take a snapshot of the poll results and organize th
 Please keep in mind that it’s hard to manage everyone’s abilities and expectation but we will try our best when organising the matches, some times there is good and other times there is bad, try to remain positive!
 
 🟢 Beginner 18:00 - 19:30
+
 🟢 Beginner 19:30 - 21:00
+
 🟡 Improvers 18:00 - 19:30
+
 🟡 Improvers 19:30 - 21:00
+
 🟠 Intermediate 18:00 - 19:30
+
 🟠 Intermediate 19:30 - 21:00
+
 🏆 Terrace & Chill 19:30 - 22:00
