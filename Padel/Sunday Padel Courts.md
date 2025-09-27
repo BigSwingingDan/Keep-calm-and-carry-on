@@ -15,7 +15,7 @@ Hi all please find below this weekends games.
 
 📱 Instructions for Bookers:
 - Book your court via the Playtomic app as usual.
-- Please book as soon as possible so players can join.
+- Please book AS SOON AS POSSIBLE so players can join.
 - Share the booking link in the group using "Share Externally."
 - Tag your three court partners in the post (if you know them).
 

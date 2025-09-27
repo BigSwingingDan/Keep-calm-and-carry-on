@@ -1,6 +1,6 @@
-Good morning all,
+🏓 Thursday Evening Pong 🏓
 
-As always, this Thursday we’ll be playing table tennis / ping pong! 🏓
+Happy weekend everyone - As always, next Thursday we’ll be playing table tennis / ping pong!
 
 The games will take place across the three main tables at the attached location, and if we have enough players, we can also use a couple of nearby tables. A polite reminder that people will start arriving at 18:00, but you’re more than welcome to join later and/or stay longer.
 

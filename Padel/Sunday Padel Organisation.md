@@ -1,0 +1,8 @@
+- Post the poll on Saturday the week before. (Pin message).
+- Wait for results to come in send daily reminds. 
+- Close poll Monday make a list of players/times/abilities etc.
+- Use Temaplate and Poll results to build games (GPT)?
+- Check venue availability.
+- Check weather conditions/warnings.
+- Put in chat and message with courts.
+- Send message to all bookers and let them takle over.

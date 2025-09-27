@@ -133,3 +133,8 @@
 - **Take lessons:** Many venues offer coaching
 - **Watch others:** Learn from better players
 - **Join tournaments:** Great for motivation and improvement
+
+
+### Can I switch with another player/person?
+### What happens if it is scheduled to rain?
+### What is a Beginner/Improver/Intermediate/Advanced
