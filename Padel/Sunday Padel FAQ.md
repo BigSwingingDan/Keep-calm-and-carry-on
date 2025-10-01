@@ -137,4 +137,6 @@
 
 ### Can I switch with another player/person?
 ### What happens if it is scheduled to rain?
-### What is a Beginner/Improver/Intermediate/Advanced
+### What is a Beginner/Improver/Intermediate/Advanced?
+### Is padel similar to tennis as I have played that?
+### What racket should i buy as a beginner?

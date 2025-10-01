@@ -1,10 +1,11 @@
 Coming Soon
 
-Work with Mario of BSC to see if we can get a regular group together.
+Work with Mario to see if we can get a regular group together.
 
 - Age requirements
 - Fitness requirements
 - Time
 - Location
 - Cost
-- Net carries responsabilties
+- Net carriers responsabilties
+- Indoor courts

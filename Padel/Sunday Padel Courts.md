@@ -26,39 +26,39 @@ Hi all please find below this weekends games.
 
 ##########################################################################################
 
-Preliminary Padel Court Arrangements (Total Courts: 00)
+Preliminary Padel Court Arrangements
 
-Beginner Court 1: 18:00-19:30
+Beginner Court 1: 16:00-17:30
 Player 1 (Booker)
 Player 2
 Player 3
 Player 4
 
-Improvers Court 1: 18:00-19:30
+Improvers Court 1: 16:00-17:30
 Player 1 (Booker)
 Player 2
 Player 3
 Player 4
 
-Intermediate Court 1: 18:00-19:30
+Intermediate Court 1: 16:00-17:30
 Player 1 (Booker)
 Player 2
 Player 3
 Player 4
 
-Beginner Court 1: 18:30-21:00
+Beginner Court 1: 17:30-19:00
 Player 1 (Booker)
 Player 2
 Player 3
 Player 4
 
-Improvers Court 1: 18:30-21:00
+Improvers Court 1: 17:30-19:00
 Player 1 (Booker)
 Player 2
 Player 3
 Player 4
 
-Intermediate Court 1: 18:30-21:00
+Intermediate Court 1: 17:30-19:00
 Player 1 (Booker)
 Player 2
 Player 3
