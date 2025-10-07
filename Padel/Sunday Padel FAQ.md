@@ -59,17 +59,7 @@
 
 ## 📍 Court Locations
 
-### Venue 1: Aurial Pàdel Cornellà by Marta Marrero
-- **Address:** [Google Maps Link](https://maps.app.goo.gl/XxNSkSxkvBdycNMy9)
-- **Game Times:** 
-  - 18:00-19:30 (1.5 hours)
-  - 19:30-21:00 (1.5 hours)
-
-### Venue 2: Padel Delfos
-- **Address:** [Google Maps Link](https://maps.app.goo.gl/uYnstxaRr2CAhoxS8)
-- **Game Times:**
-  - 18:00-19:00 (1 hour)
-  - 19:00-20:00 (1 hour)
+See Sunday Padel Venues.md
 
 ## 🏓 Equipment Rental
 

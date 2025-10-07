@@ -8,10 +8,9 @@ Fill empty slots with "Spare Place" and where possible recommend to me where I s
 When outputing players thier second names should be truncated to just the first letter for example "Firstname A".
 After generating the initial arrangement, systematically verify that EVERY player from the poll images appears in their chosen time slots - cross-reference each image against the final arrangement to ensure no one is missed.
 
+-----
 
-##########################################################################################
-
-Hi all please find below this weekends games.
+🎾 Hi all please find below this weekends games. {DATE} 🎾 
 
 📱 Instructions for Bookers:
 - Book your court via the Playtomic app as usual.
@@ -24,7 +23,7 @@ Hi all please find below this weekends games.
 - Monitor your court for any missing players and follow up with them.
 - Notify Dan if you need to dropout and help find replacement (before you leave).
 
-##########################################################################################
+-----
 
 Preliminary Padel Court Arrangements
 
