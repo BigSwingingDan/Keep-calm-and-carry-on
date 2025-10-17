@@ -1,4 +1,4 @@
-Using the below template, arrange padel games based on the poll preferences shown in the attached images. Provide output in markdown format. With all the below constraints please go through them systematically to make sure one containst does not impede on one another. Before finalizing, list all constraints and verify each one individually
+Using the below template, arrange padel games based on the poll preferences shown in the attached CSV. Provide output in markdown format. With all the below constraints please go through them systematically to make sure one containst does not impede on one another. Before finalizing, list all constraints and verify each one individually
 
 General requests/constraints;
 The person labeled "You" in the polls should be listed as "Daniel O" in the arrangements
@@ -28,37 +28,37 @@ After generating the initial arrangement, systematically verify that EVERY playe
 Preliminary Padel Court Arrangements
 
 Beginner Court 1: 16:00-17:30
-Player 1 (Booker)
-Player 2
-Player 3
-Player 4
+Player 1 [NUMBER] (Booker)
+Player 2 [NUMBER] (Booker)
+Player 3 [NUMBER] (Booker)
+Player 4 [NUMBER] (Booker)
 
 Improvers Court 1: 16:00-17:30
-Player 1 (Booker)
-Player 2
-Player 3
-Player 4
+Player 1 [NUMBER] (Booker)
+Player 2 [NUMBER]
+Player 3 [NUMBER]
+Player 4 [NUMBER]
 
 Intermediate Court 1: 16:00-17:30
-Player 1 (Booker)
-Player 2
-Player 3
-Player 4
+Player 1 [NUMBER] (Booker)
+Player 2 [NUMBER]
+Player 3 [NUMBER] 
+Player 4 [NUMBER]
 
 Beginner Court 1: 17:30-19:00
-Player 1 (Booker)
-Player 2
-Player 3
-Player 4
+Player 1 [NUMBER] (Booker)
+Player 2 [NUMBER] (Booker)
+Player 3 [NUMBER] (Booker)
+Player 4 [NUMBER] (Booker)
 
 Improvers Court 1: 17:30-19:00
-Player 1 (Booker)
-Player 2
-Player 3
-Player 4
+Player 1 [NUMBER] (Booker)
+Player 2 [NUMBER]
+Player 3 [NUMBER]
+Player 4 [NUMBER]
 
 Intermediate Court 1: 17:30-19:00
-Player 1 (Booker)
-Player 2
-Player 3
-Player 4
+Player 1 [NUMBER] (Booker)
+Player 2 [NUMBER]
+Player 3 [NUMBER]
+Player 4 [NUMBER]
